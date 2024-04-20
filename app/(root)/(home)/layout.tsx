@@ -1,6 +1,5 @@
 'use client';
 
-import { Metadata } from 'next';
 import { ReactNode, useEffect } from 'react';
 
 import Navbar from '@/components/Navbar';

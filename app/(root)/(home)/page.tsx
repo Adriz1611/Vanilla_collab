@@ -15,7 +15,7 @@ const Home = () => {
     <section className="flex size-full flex-col gap-5 text-white">
       <div className="h-[303px] w-full rounded-[20px] bg-hero bg-cover">
         <div className="flex h-full flex-col justify-between max-md:px-5 max-md:py-8 lg:p-11">
-          <h2 className="glassmorphism max-w-[285px] rounded p-2 font-extralight text-[15px] text-center text-base">
+          <h2 className="glassmorphism max-w-[285px] rounded p-2 font-extralight text-[15px] text-center">
             Upcoming Meeting at: 12:30 PM
           </h2>
           <div className="flex flex-col gap-2">
